@@ -1,5 +1,5 @@
 import sys
-cat > test_imports.py << 'EOF'
+
 print("Testing imports...", file=sys.stderr)
 
 try:
@@ -21,4 +21,3 @@ except Exception as e:
     print(f"✗ mcp.server.fastmcp: {e}", file=sys.stderr)
 
 print("All imports checked", file=sys.stderr)
-EOF
