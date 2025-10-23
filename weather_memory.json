@@ -1,0 +1,17 @@
+{
+  "searches": [
+    {
+      "type": "forecast",
+      "location": "Covington, LA",
+      "latitude": 30.4755,
+      "longitude": -90.1009,
+      "timestamp": "2025-10-22T20:43:21.830216"
+    },
+    {
+      "type": "alerts",
+      "state": "LA",
+      "timestamp": "2025-10-22T20:44:33.241565"
+    }
+  ],
+  "favorites": []
+}
